@@ -16,19 +16,19 @@ pkg install python -y
 
 pkg install git -y
 
-git clone https://github.com/rootofhunter/ROH-Bomber.git
+git clone https://github.com/HUNTERTIK/ErrorX.git
 
-cd ROH-Bomber
+cd ErrorX
 
 pip install requests 
 
-python roh.py
+python ErrorX.py
 
 ```
 
-## Demo
+## Telegram
 
-https://youtu.be/OOSP7NkZ2h8
+https://t.me/C9HUNT
 
 ## Badges
 
